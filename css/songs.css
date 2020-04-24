@@ -1,0 +1,26 @@
+
+
+.heading {
+    text-align: center;
+    color: green;
+    padding: 1rem;
+    font-weight: 700;
+}
+.song {
+    padding: 2rem;
+    background: rgb(212, 212, 212);
+    width: 100%;
+}
+
+.allsongs li{
+    border: rgb(199, 199, 199) solid 1px;
+    border-radius: 1px;
+    text-align: center;
+    margin-top: 1rem;
+    list-style: none;
+    padding-top: 1rem;
+}
+.allsongs{
+    padding-bottom: 4rem;
+    padding-top: 1rem;
+}

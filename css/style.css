@@ -1,0 +1,58 @@
+
+.navbar{
+    background:black !important;
+    padding: .5rem;
+}
+.navbar li{
+    padding-right: 2rem;
+}
+.navbar-brand img{
+    width: 60px !important;
+    height: 60px !important;
+    margin-right: 10px !important;
+}
+.nav-item .nav-link
+{
+    font: 500 20px /3px "Lato";
+    text-transform: uppercase;
+    padding: 1.5rem;
+}
+.nav-link{
+    text-align: center;
+}
+
+body{
+    background: white;
+}
+
+footer{
+    color: honeydew;
+    text-align: center;
+    background: rgb(71, 71, 71);
+    height: 7rem;
+    padding-top: 1rem;
+    margin-top: 5rem;
+}
+
+/*     note page css   */
+
+.page-link{
+    background: rgb(115, 90, 255);
+    padding: .5rem 15px;
+    color: black;
+    font-weight: 500;
+}
+label{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.texp{
+    font-weight: 800;
+    background: url(../img/text\ bg.jpg) 50% 50%;
+    background-size: cover;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    padding-top: 2rem;
+}
+/*     note page css   */
+

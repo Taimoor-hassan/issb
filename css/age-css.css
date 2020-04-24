@@ -1,0 +1,33 @@
+body{
+    background: url(../img/light_background.jpg);
+}
+.container-1{
+    border: 1px solid black;
+    text-align: center ;
+    padding: 2rem ;
+    margin: 3rem 20%;
+}
+.flex-box-container-1{
+    border: 1px solid black;
+    padding: 1rem;
+}
+.flex-box-container-1 div{
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
+footer{
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
