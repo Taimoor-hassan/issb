@@ -29,10 +29,17 @@ footer{
     color: honeydew;
     text-align: center;
     background: rgb(71, 71, 71);
-    height: 7rem;
+    height: 8rem;
     padding-top: 1rem;
     margin-top: 5rem;
 }
+.center{
+    text-align: center;
+}
+.material{ 
+    height: 30rem; border: 1rem solid rgba(0,0,0,.1); 
+}
+
 
 /*     note page css   */
 
