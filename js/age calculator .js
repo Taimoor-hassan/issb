@@ -9,9 +9,9 @@ function ageindays() {
         }
     var elast=lastday(eyear,emonth-1)
 
-    var bday=prompt('Enter your birth day');
-    var bmonth=prompt('Enter your birth month');
-    var byear=prompt('Enter your birth year');
+    var bday=prompt('Enter your birth day _ _eg:11');
+    var bmonth=prompt('Enter your birth month_ _eg:12');
+    var byear=prompt('Enter your birth year_ _eg:2003');
 
     var days=day();
     function day() {
@@ -45,7 +45,7 @@ function ageindays() {
     }
 
     var h2=document.createElement('h2');
-    var text=document.createTextNode('You are '+years+' years '+months+' months and '+days+' days old');
+    var text=document.createTextNode('You are '+years+' years , '+months+' months and '+days+' days old');
     h2.setAttribute('id','days');
     h2.appendChild(text);
     document.getElementById('reset').appendChild(h2);
