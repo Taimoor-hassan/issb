@@ -8,8 +8,6 @@ body{
     padding: 2rem ;
     margin: 3rem auto;
     background: url(img/light_background.jpg); 
-    display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     justify-items: center;
 }
